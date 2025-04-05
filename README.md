@@ -39,19 +39,13 @@ proyecto/
 
 ### 1. Configuración del Backend (API)
 
-1. **Navegar a la carpeta del backend:**
-
-   ```bash
-   cd proyecto/src
-   ```
-
-2. **Instalar dependencias:**
+1. **Instalar dependencias:**
 
    ```bash
    npm install
    ```
 
-3. **Iniciar el servidor:**
+2. **Iniciar el servidor:**
 
    ```bash
    node src/server.js
