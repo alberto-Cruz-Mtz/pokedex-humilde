@@ -1,0 +1,17 @@
+# Ignorar node_modules
+node_modules/
+frontend/node_modules
+
+# Opcional: Ignorar archivos de entorno (como .env)
+.env
+.env.local
+
+# Opcional: Ignorar logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Opcional: Ignorar carpetas de coverage (si usas pruebas)
+coverage/
+
+# Opcional: Ignorar archivos de configuración local (como
