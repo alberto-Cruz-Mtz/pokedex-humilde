@@ -1,5 +1,3 @@
-Aquí tienes una versión lista para agregar a tu archivo `README.md`:
-
 ```markdown
 # Instrucciones para Ejecutar el Proyecto
 
@@ -40,9 +38,3 @@ npm run dev
 
 > **Nota:** Ambos servicios deben estar en ejecución simultáneamente.
 ```
-
-Puedes copiar y pegar este contenido directamente en tu archivo README.md. He mejorado el formato para que sea más claro y legible, con:
-- Secciones bien diferenciadas
-- Sintaxis de código correcta para Markdown
-- Indicaciones más precisas
-- Nota importante destacada
